@@ -14,3 +14,4 @@ Keras RL Docs: 						https://keras-rl.readthedocs.io/en/latest/
 Tutorial: 						https://www.youtube.com/watch?v=cO5g5qLrLSo
 Playing Atari with Deep Reinforcement Learning (2013): 	https://arxiv.org/pdf/1312.5602.pdf
 Playing Pong based on the above: 			https://towardsdatascience.com/deep-q-network-dqn-i-bce08bdf2af
+Bad implemtation of pong:				https://medium.com/gradientcrescent/fundamentals-of-reinforcement-learning-automating-pong-in-using-a-policy-model-an-implementation-b71f64c158ff
