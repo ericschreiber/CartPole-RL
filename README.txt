@@ -1,3 +1,7 @@
+Cart-Pole project is done with '100%' accuracy (200/200 points every time)
+In the Pong project I am having trouble importing the environment with gym. It only seems to work with ale.
+But I could not find a source for training with ale environment.
+
 Quellen: 
 
 MIT Lecture: 						https://www.youtube.com/watch?v=93M1l_nrhpQ
