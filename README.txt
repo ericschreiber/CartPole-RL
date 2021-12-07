@@ -1,7 +1,8 @@
 Cart-Pole project is done with '100%' accuracy (200/200 points every time)
-In the Pong project I am having trouble importing the environment with gym. It only seems to work with ale.
+/*In the Pong project I am having trouble importing the environment with gym. It only seems to work with ale.
 But I could not find a source for training with ale environment.
-I finally got it to work. Since it is late in the evening i will postpone doing the rest. I have to set it up in a new file.
+I finally got it to work. Since it is late in the evening i will postpone doing the rest. I have to set it up in a new file.*/
+Pong is working. But training takes a long time. I am not surprised, that model still looses. But it should be somewhat better.
 
 Quellen: 
 
